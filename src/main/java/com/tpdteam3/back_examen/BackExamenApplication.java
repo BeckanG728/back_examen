@@ -1,0 +1,13 @@
+package com.tpdteam3.back_examen;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class BackExamenApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(BackExamenApplication.class, args);
+	}
+
+}
